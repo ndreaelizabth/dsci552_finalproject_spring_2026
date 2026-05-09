@@ -220,3 +220,5 @@ data/
 *.zip
 *.zip
 *data/
+*.zip
+data/
